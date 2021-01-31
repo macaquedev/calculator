@@ -1,0 +1,28 @@
+.dbutton {
+    height: 4em; 
+    width: 7.405em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 73px;
+    font-weight: lighter;
+    padding: 0px 0;
+    font-size: large;
+    background-color: #e0e1e6;
+    color: #888;
+    outline: 1px solid #888;
+}
+.doperator {
+    height: 4em; 
+    width: 7.41em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 73px;
+    font-weight: lighter;
+    padding: 0px 0;
+    font-size: large;
+    background-color: #fe9241;
+    color: #ffffff;
+    outline: 1px solid #888;
+}
